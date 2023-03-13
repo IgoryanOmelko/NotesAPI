@@ -25,8 +25,6 @@
     <string name="btnNewNote">New note</string>
     <string name="btnDeleteNote">Delete</string>
     <string name="btnBack">Back</string>
-    <string name="btnAccountDelete">Delete account</string>
-    <string name="btnChangePassword">Change password</string>
     <string name="btnLogOut">Logout</string>
     <string name="btnCancel">Cancel</string>
     <string name="btnRegister">Sign up</string>
@@ -56,8 +54,6 @@
     <string name="txtTag">Tag:</string>
     <string name="txtNodes">Nodes:</string>
     <string name="txtID">ID:</string>
-    <string name="txtSaveOnServer">Save on server</string>
-    <string name="txtSaveOnDB">Save on device</string>
     <string name="txtNewName">New name</string>
     <string name="txtNewNameNote">New empty note</string>
     <string name="tvLinkSettingAldHeader">Links settings</string>
