@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\drawable_rect8902.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\drawable\\rect8902.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_ald_window.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\ald_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\menu_menu_save.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\menu\\menu_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_color_list_item.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\color_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_tag_select_window.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\tag_select_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_note_list.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_note_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_note.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_color_select_window.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\color_select_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_note_list_item.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\note_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_tag_list.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_tag_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_tag_list_item.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\tag_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\menu_menu_edit_up.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\menu\\menu_edit_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_msg_window.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\msg_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "ru.example.notesapi.app-merged_res-29:/layout_activity_menu.xml.flat",
+        "source": "ru.example.notesapi.app-main-31:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igor_\\.gradle\\daemon\\7.5\\ru.example.notesapi.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

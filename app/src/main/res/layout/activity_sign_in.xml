@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvHeaderSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/tvSignInTitle"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etLoginSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Login"
+            android:inputType="textPersonName"
+            android:text="" />
+
+        <EditText
+            android:id="@+id/etPasswordSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPersonName"
+            android:text="" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLoginSignIn"
+        android:layout_width="129dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnLogin"
+        android:onClick="onBtnLoginClick"/>
+
+    <Button
+        android:id="@+id/btnRegisterSignIn"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnRegister"
+        android:onClick="onBtnRegisterClick"/>
+
+    <Button
+        android:id="@+id/btnSettingsSignIn"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSetting"
+        android:onClick="onBtnSettingClick"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvRememberSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/swtRemPas" />
+
+        <Switch
+            android:id="@+id/swtRememberSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:gravity="center"
+            android:switchTextAppearance="@style/TextAppearance.AppCompat.Medium" />
+    </LinearLayout>
+
+</LinearLayout>
